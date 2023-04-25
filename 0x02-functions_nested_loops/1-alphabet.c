@@ -2,7 +2,7 @@
 
 /**
 * main - Entry point
-* _putchar - writes the character c to stdout
+* Description: prints '_putchar to stdout'
 * Return: Always 0 (Success).
 */
 int main(void)
