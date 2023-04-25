@@ -1,8 +1,8 @@
-#include <unistd.h>
+#include <main.h>
 
 /**
 * main - Entry point
-* Description: prints '_putchar to stdout'
+* Description: _putchar - writes the character c to stdout
 * Return: Always 0 (Success).
 */
 int main(void)
