@@ -2,10 +2,10 @@
 
 /**
 * main - Entry point
-* Description: _putchar - writes the character c to stdout
+* Description: print_alphabet - prints the alphabet, in lowercase
 * Return: Always 0 (Success).
 */
-int main(void);
+int main print_alphabet(void)
 {
 _putchar('_');
 _putchar('p');
