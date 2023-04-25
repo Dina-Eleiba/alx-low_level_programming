@@ -5,7 +5,7 @@
 * Description: _putchar - writes the character c to stdout
 * Return: Always 0 (Success).
 */
-int main(void)
+int main void print_alphabet(void);
 {
 _putchar('_');
 _putchar('p');
