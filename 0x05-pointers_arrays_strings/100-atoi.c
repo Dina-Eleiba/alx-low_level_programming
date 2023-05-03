@@ -1,4 +1,10 @@
 #include "main.h"
+/**
+*_strcpy - function that copies the string
+* @dest: the pointer that store the value of the string
+* @src: the pointer that holds the string
+* Return: dest
+*/
 atoi-converts a string to an integer
 int _atoi (char *s)
 unsigned int num = 0;
