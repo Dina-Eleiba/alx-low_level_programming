@@ -1,9 +1,9 @@
-lobal   main
-	  extern    printf
+Section text
+extern printf
+global main
 main:
-	  mov   edi, format
-	  xor   eax, eax
-	  call  printf
-	  mov   eax, 0
-	  ret
-format: db `Hello, Holberton\n`,0
+mov edi, msg
+mov eax, 0
+call printf
+Gisection .data
+msg db 'Hello, Holberton', Oxa, 0
